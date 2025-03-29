@@ -1,2 +1,2 @@
 # zazaza13141
-man8
+man8out
